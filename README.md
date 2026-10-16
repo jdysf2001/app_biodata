@@ -5,20 +5,20 @@ Aplikasi Biodata Mahasiswa merupakan aplikasi mobile sederhana yang dibuat mengg
 
 Aplikasi ini menggunakan konsep navigasi menu (*App Drawer*) dan menampilkan informasi mahasiswa, daftar nilai mata kuliah, serta profil pengguna. Aplikasi dirancang dengan antarmuka yang sederhana, rapi, dan mudah digunakan.
 
-## 👨‍🎓 Identitas Mahasiswa
+## Identitas Mahasiswa
 - **Nama:** Mohammad Jadid
 - **NIM:** 20240801304
 - **Program Studi:** Teknik Informatika
 - **Perguruan Tinggi:** Universitas Esa Unggul
 - **Mata Kuliah:** Pemrograman Mobile
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 - **Flutter** — Framework untuk membangun aplikasi mobile.
 - **Dart** — Bahasa pemrograman yang digunakan dalam pengembangan aplikasi.
 - **Material Design** — Komponen antarmuka pengguna untuk membangun tampilan aplikasi.
 - **Android Studio** — IDE yang digunakan untuk menulis, menjalankan, dan menguji aplikasi.
 
-## ✨ Fitur Aplikasi
+## Fitur Aplikasi
 
 ### 1. Biodata Mahasiswa
 Menampilkan informasi mahasiswa yang dibagi menjadi beberapa bagian:
@@ -42,7 +42,7 @@ Menampilkan foto profil, nama, email, dan beberapa pilihan menu, yaitu:
 ### 4. Navigasi App Drawer
 Menyediakan menu navigasi samping untuk berpindah antara halaman Biodata Mahasiswa, Form Nilai Mahasiswa, dan Profil Pengguna. Aplikasi juga dilengkapi dengan dialog konfirmasi ketika pengguna memilih menu Keluar.
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 ```text
 app_biodata/
 ├── android/
@@ -63,7 +63,7 @@ app_biodata/
 - `android/` — Berisi konfigurasi proyek untuk platform Android.
 - `test/` — Direktori untuk pengujian aplikasi.
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 1. Pastikan Flutter SDK dan Android Studio sudah terpasang.
 2. Clone atau unduh repository proyek ini.
 3. Buka folder proyek menggunakan Android Studio.
@@ -91,7 +91,8 @@ flutter:
     - assets/foto.png
 ```
 
-## 🌐 Repository GitHub
+## Repository GitHub
+https://github.com/jdysf2001/app_biodata.git
 
 
 ---
